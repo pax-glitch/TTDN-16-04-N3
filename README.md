@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   HỆ THỐNG ERP QUẢN LÍ NHÂN SỰ, TÀI SẢN VÀ TÀI CHÍNH, KẾ TOÁN CHO CÔNG TY CỔ PHẦN CÔNG NGHỆ DIEUNGU? 
+   HỆ THỐNG ERP QUẢN LÍ NHÂN SỰ, TÀI SẢN VÀ TÀI CHÍNH, KẾ TOÁN CHO CÔNG TY CỔ PHẦN CÔNG NGHỆ sCAPER
 </h2>
 <div align="center">
     <p align="center">
