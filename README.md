@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   ĐỀ TÀI LÀ GÌ? 
+   HỆ THỐNG ERP QUẢN LÍ NHÂN SỰ, TÀI SẢN VÀ TÀI CHÍNH, KẾ TOÁN CHO CÔNG TY CỔ PHẦN CÔNG NGHỆ DIEUNGU? 
 </h2>
 <div align="center">
     <p align="center">
